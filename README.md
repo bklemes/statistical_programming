@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This is just a git and github sandbox
+Content for Math 250, Introduction to Statistical Programming, at Lake Forest College.
 
